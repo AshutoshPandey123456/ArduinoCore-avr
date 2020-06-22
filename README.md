@@ -20,13 +20,13 @@ There is a dedicated section of the Arduino Forum for general discussion and pro
 
 Before posting, please check the other sections of the forum to make sure if your query is better suited for another section of the forum.
 
-##Bugs or Issues
+## Bugs or Issues
 If you find a bug you can submit an issue here on github:
 
 [https://github.com/arduino/ArduinoCore-avr/issues](https://github.com/arduino/ArduinoCore-avr/issues) 
 
 Before posting a new issue, please check if the same problem has been already reported by someone else to avoid duplicates.
 
-##Contributions
+## Contributions
 
 Contributions are always welcome. The preferred way to receive code contribution is by submitting a Pull Request on github.
